@@ -1,4 +1,4 @@
-# Fragwire Website [![Netlify Status](https://api.netlify.com/api/v1/badges/8b91c178-d1d4-4f77-8316-097ed7deb64d/deploy-status)](https://app.netlify.com/sites/fragwire/deploys) 
+# Fragwire Website [![Netlify Status](https://api.netlify.com/api/v1/badges/8e805987-4dbb-4d80-9001-a9d47748ad68/deploy-status)](https://app.netlify.com/sites/blissful-wescoff-6e0649/deploys)
 
 Content authoring and publishing pipeline using Wordpress and Netlify.
 
