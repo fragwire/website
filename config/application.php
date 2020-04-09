@@ -112,6 +112,11 @@ Config::define( 'AS3CF_SETTINGS', serialize( array(
 ) ) );
 
 /**
+ * Sendgrid Settings
+ */
+Config::define('SENDGRID_API_KEY', env('SENDGRID_API_KEY'));
+
+/**
  * Debugging Settings
  */
 Config::define('WP_DEBUG_DISPLAY', false);
