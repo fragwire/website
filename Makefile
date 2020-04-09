@@ -7,7 +7,7 @@ all: html
 
 .PHONY: html
 html: | $(BUILDDIR)
-	wget --mirror -p --html-extension --convert-links -e robots=off -P $(BUILDDIR) $(WPURL)
+	wget --mirror -p --adjust-extension --restrict-file-names=windows --convert-links -e robots=off -P $(BUILDDIR) $(WPURL)
 
 .PHONY: clean
 clean:
